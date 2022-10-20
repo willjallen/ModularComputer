@@ -1,0 +1,26 @@
+
+== Timers ==
+
+Timer - ICM7555ISA+T
+https://www.desmos.com/calculator/uh4mgpj17j
+
+-- a-stable --
+Use 50% duty cycle (eq 2)
+RA = variable, 150 ohm <= x <= 1 Mohm
+C = 1 micro F
+
+-- mono-stable --
+
+
+
+=== Potentiometers ===
+51AAD-B24-A25L
+connect pins 2 & 3, most resistance -> least to make clock go slow->fast
+A=Linear Cermet 
+25 = 1 Mohm
+
+https://www.mouser.com/ProductDetail/Bourns/51AAD-B24-A25L?qs=a5ZO726SDYA659U%2FhYZdpw%3D%3D
+https://www.mouser.com/datasheet/2/54/50-777299.pdf
+
+
+=== SR Latch ===
