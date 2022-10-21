@@ -1,4 +1,4 @@
-
+https://forum.sparkfun.com/viewtopic.php?t=35239
 == Timers ==
 
 Timer - ICM7555ISA+T
@@ -24,3 +24,7 @@ https://www.mouser.com/datasheet/2/54/50-777299.pdf
 
 
 === SR Latch ===
+
+== LED ==
+-- Resistor --
+https://www.mouser.com/ProductDetail/ROHM-Semiconductor/ESR03EZPJ152?qs=sGAEpiMZZMtlubZbdhIBIGrVcSH3vih4%252B8KCxMJwkTE%3D
